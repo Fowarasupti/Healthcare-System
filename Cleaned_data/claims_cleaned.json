@@ -1,0 +1,702 @@
+[
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10069",
+    "claim_amount": 99313,
+    "claim_date": "1994-08-25",
+    "claim_id": 69,
+    "claim_type": "claims of fact",
+    "disease_name": "Pet allergy",
+    "patient_id": 188365
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10016",
+    "claim_amount": 42860,
+    "claim_date": "1955-01-20",
+    "claim_id": 16,
+    "claim_type": "claims of value",
+    "disease_name": "Smallpox",
+    "patient_id": 179662
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10035",
+    "claim_amount": 28542,
+    "claim_date": "1973-03-25",
+    "claim_id": 35,
+    "claim_type": "claims of value",
+    "disease_name": "Measles",
+    "patient_id": 150189
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10031",
+    "claim_amount": 42968,
+    "claim_date": "1976-01-25",
+    "claim_id": 31,
+    "claim_type": "claims of fact",
+    "disease_name": "Alcohol consumption",
+    "patient_id": 162665
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10060",
+    "claim_amount": 139755,
+    "claim_date": "2004-01-20",
+    "claim_id": 60,
+    "claim_type": "claims of policy",
+    "disease_name": "Anthrax",
+    "patient_id": 140394
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1010",
+    "claim_amount": 29150,
+    "claim_date": "1999-01-25",
+    "claim_id": 10,
+    "claim_type": "claims of value",
+    "disease_name": "Fanconi anaemia",
+    "patient_id": 156168
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10056",
+    "claim_amount": 124734,
+    "claim_date": "1974-12-21",
+    "claim_id": 56,
+    "claim_type": "claims of fact",
+    "disease_name": "Malaria",
+    "patient_id": 118913
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10017",
+    "claim_amount": 161786,
+    "claim_date": "2017-06-01",
+    "claim_id": 17,
+    "claim_type": "claims of policy",
+    "disease_name": "Pollen allergy",
+    "patient_id": 184479
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10026",
+    "claim_amount": 192381,
+    "claim_date": "1966-08-30",
+    "claim_id": 26,
+    "claim_type": "claims of value",
+    "disease_name": "Measles",
+    "patient_id": 189996
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID1037",
+    "claim_amount": 19596,
+    "claim_date": "1972-10-11",
+    "claim_id": 37,
+    "claim_type": "claims of policy",
+    "disease_name": "Phenylketonuria",
+    "patient_id": 146555
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10057",
+    "claim_amount": 161497,
+    "claim_date": "1974-12-28",
+    "claim_id": 57,
+    "claim_type": "claims of policy",
+    "disease_name": "Asthma",
+    "patient_id": 167423
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10068",
+    "claim_amount": 152901,
+    "claim_date": "1948-02-13",
+    "claim_id": 68,
+    "claim_type": "claims of policy",
+    "disease_name": "Diabetes",
+    "patient_id": 114252
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID1041",
+    "claim_amount": 118452,
+    "claim_date": "1955-10-11",
+    "claim_id": 41,
+    "claim_type": "claims of fact",
+    "disease_name": "Fanconi anaemia",
+    "patient_id": 156223
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1063",
+    "claim_amount": 158255,
+    "claim_date": "2014-01-10",
+    "claim_id": 63,
+    "claim_type": "claims of policy",
+    "disease_name": "Drug consumption",
+    "patient_id": 115143
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1038",
+    "claim_amount": 25171,
+    "claim_date": "1979-03-11",
+    "claim_id": 38,
+    "claim_type": "claims of fact",
+    "disease_name": "Phenylketonuria",
+    "patient_id": 199114
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10064",
+    "claim_amount": 154594,
+    "claim_date": "2015-07-08",
+    "claim_id": 64,
+    "claim_type": "claims of policy",
+    "disease_name": "Cholera",
+    "patient_id": 156364
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10066",
+    "claim_amount": 13667,
+    "claim_date": "1957-09-12",
+    "claim_id": 66,
+    "claim_type": "claims of fact",
+    "disease_name": "Hepatitis",
+    "patient_id": 105686
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10061",
+    "claim_amount": 74276,
+    "claim_date": "1991-03-16",
+    "claim_id": 61,
+    "claim_type": "claims of fact",
+    "disease_name": "Mold allergy",
+    "patient_id": 164524
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10011",
+    "claim_amount": 40897,
+    "claim_date": "1975-02-08",
+    "claim_id": 11,
+    "claim_type": "claims of value",
+    "disease_name": "Breast cancer",
+    "patient_id": 114241
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10023",
+    "claim_amount": 83642,
+    "claim_date": "1945-03-15",
+    "claim_id": 23,
+    "claim_type": "claims of value",
+    "disease_name": "Cholera",
+    "patient_id": 122592
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10028",
+    "claim_amount": 122806,
+    "claim_date": "1958-08-05",
+    "claim_id": 28,
+    "claim_type": "claims of policy",
+    "disease_name": "Flu",
+    "patient_id": 156434
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10050",
+    "claim_amount": 156557,
+    "claim_date": "1972-06-19",
+    "claim_id": 50,
+    "claim_type": "claims of policy",
+    "disease_name": "Lung cancer",
+    "patient_id": 197441
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID1021",
+    "claim_amount": 55761,
+    "claim_date": "1953-06-24",
+    "claim_id": 21,
+    "claim_type": "claims of fact",
+    "disease_name": "Rett Syndrome",
+    "patient_id": 113280
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10054",
+    "claim_amount": 27404,
+    "claim_date": "1965-01-09",
+    "claim_id": 54,
+    "claim_type": "claims of policy",
+    "disease_name": "Mold allergy",
+    "patient_id": 119268
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1034",
+    "claim_amount": 26221,
+    "claim_date": "2008-08-10",
+    "claim_id": 34,
+    "claim_type": "claims of fact",
+    "disease_name": "Vertigo",
+    "patient_id": 195876
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10049",
+    "claim_amount": 159815,
+    "claim_date": "1983-06-20",
+    "claim_id": 49,
+    "claim_type": "claims of fact",
+    "disease_name": "Bladder cancer",
+    "patient_id": 121783
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10025",
+    "claim_amount": 36524,
+    "claim_date": "1976-08-24",
+    "claim_id": 25,
+    "claim_type": "claims of fact",
+    "disease_name": "Glaucoma",
+    "patient_id": 117945
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10015",
+    "claim_amount": 100224,
+    "claim_date": "1986-08-02",
+    "claim_id": 15,
+    "claim_type": "claims of value",
+    "disease_name": "Dengue",
+    "patient_id": 135184
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1045",
+    "claim_amount": 160739,
+    "claim_date": "1952-07-29",
+    "claim_id": 45,
+    "claim_type": "claims of policy",
+    "disease_name": "Lymphedema",
+    "patient_id": 133107
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10027",
+    "claim_amount": 188520,
+    "claim_date": "2008-08-26",
+    "claim_id": 27,
+    "claim_type": "claims of fact",
+    "disease_name": "Scurvy",
+    "patient_id": 146540
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10018",
+    "claim_amount": 66129,
+    "claim_date": "1956-01-04",
+    "claim_id": 18,
+    "claim_type": "claims of fact",
+    "disease_name": "Breast cancer",
+    "patient_id": 156988
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1020",
+    "claim_amount": 105982,
+    "claim_date": "1984-04-10",
+    "claim_id": 20,
+    "claim_type": "claims of value",
+    "disease_name": "Pet allergy",
+    "patient_id": 148137
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1032",
+    "claim_amount": 191267,
+    "claim_date": "1988-12-18",
+    "claim_id": 32,
+    "claim_type": "claims of policy",
+    "disease_name": "Stroke",
+    "patient_id": 197503
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10033",
+    "claim_amount": 161199,
+    "claim_date": "2019-11-17",
+    "claim_id": 33,
+    "claim_type": "claims of value",
+    "disease_name": "Galactosemia",
+    "patient_id": 113476
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10052",
+    "claim_amount": 130339,
+    "claim_date": "1959-07-22",
+    "claim_id": 52,
+    "claim_type": "claims of policy",
+    "disease_name": "Food Poisoning",
+    "patient_id": 110690
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10022",
+    "claim_amount": 34771,
+    "claim_date": "1948-05-23",
+    "claim_id": 22,
+    "claim_type": "claims of value",
+    "disease_name": "Flu",
+    "patient_id": 134184
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10008",
+    "claim_amount": 141123,
+    "claim_date": "1966-06-20",
+    "claim_id": 8,
+    "claim_type": "claims of fact",
+    "disease_name": "Dengue",
+    "patient_id": 110377
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10001",
+    "claim_amount": 151142,
+    "claim_date": "1970-03-16",
+    "claim_id": 1,
+    "claim_type": "claims of policy",
+    "disease_name": "Bladder cancer",
+    "patient_id": 112766
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10046",
+    "claim_amount": 25957,
+    "claim_date": "2003-11-29",
+    "claim_id": 46,
+    "claim_type": "claims of fact",
+    "disease_name": "Phenylketonuria",
+    "patient_id": 193137
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10053",
+    "claim_amount": 87588,
+    "claim_date": "2008-10-17",
+    "claim_id": 53,
+    "claim_type": "claims of fact",
+    "disease_name": "Anthrax",
+    "patient_id": 180709
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10012",
+    "claim_amount": 75983,
+    "claim_date": "1985-02-12",
+    "claim_id": 12,
+    "claim_type": "claims of value",
+    "disease_name": "Anthrax",
+    "patient_id": 146382
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10051",
+    "claim_amount": 193801,
+    "claim_date": "1969-02-01",
+    "claim_id": 51,
+    "claim_type": "claims of value",
+    "disease_name": "Colorectal cancer",
+    "patient_id": 194166
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1044",
+    "claim_amount": 173600,
+    "claim_date": "1959-10-19",
+    "claim_id": 44,
+    "claim_type": "claims of policy",
+    "disease_name": "Diabetes",
+    "patient_id": 148674
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10024",
+    "claim_amount": 49129,
+    "claim_date": "2013-08-04",
+    "claim_id": 24,
+    "claim_type": "claims of policy",
+    "disease_name": "Scurvy",
+    "patient_id": 154439
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10055",
+    "claim_amount": 44986,
+    "claim_date": "2007-06-22",
+    "claim_id": 55,
+    "claim_type": "claims of policy",
+    "disease_name": "Beriberi",
+    "patient_id": 163148
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10007",
+    "claim_amount": 177186,
+    "claim_date": "1946-09-05",
+    "claim_id": 7,
+    "claim_type": "claims of value",
+    "disease_name": "Drug consumption",
+    "patient_id": 130339
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10009",
+    "claim_amount": 88540,
+    "claim_date": "1945-12-29",
+    "claim_id": 9,
+    "claim_type": "claims of value",
+    "disease_name": "Head banging",
+    "patient_id": 149367
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10005",
+    "claim_amount": 64840,
+    "claim_date": "1991-10-04",
+    "claim_id": 5,
+    "claim_type": "claims of policy",
+    "disease_name": "Whiplash",
+    "patient_id": 171320
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1065",
+    "claim_amount": 81980,
+    "claim_date": "1969-05-31",
+    "claim_id": 65,
+    "claim_type": "claims of policy",
+    "disease_name": "Glaucoma",
+    "patient_id": 191132
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10040",
+    "claim_amount": 116937,
+    "claim_date": "1998-09-26",
+    "claim_id": 40,
+    "claim_type": "claims of value",
+    "disease_name": "Choking",
+    "patient_id": 109251
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10048",
+    "claim_amount": 125727,
+    "claim_date": "1947-04-11",
+    "claim_id": 48,
+    "claim_type": "claims of value",
+    "disease_name": "Asthma",
+    "patient_id": 109342
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1006",
+    "claim_amount": 26800,
+    "claim_date": "1991-03-26",
+    "claim_id": 6,
+    "claim_type": "claims of fact",
+    "disease_name": "Sunbathing",
+    "patient_id": 107794
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID10004",
+    "claim_amount": 168634,
+    "claim_date": "1967-05-23",
+    "claim_id": 4,
+    "claim_type": "claims of value",
+    "disease_name": "Food allergy",
+    "patient_id": 172579
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID10014",
+    "claim_amount": 118628,
+    "claim_date": "2003-12-18",
+    "claim_id": 14,
+    "claim_type": "claims of value",
+    "disease_name": "Galactosemia",
+    "patient_id": 167340
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1058",
+    "claim_amount": 20770,
+    "claim_date": "1967-08-28",
+    "claim_id": 58,
+    "claim_type": "claims of policy",
+    "disease_name": "Fractures",
+    "patient_id": 141703
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID1030",
+    "claim_amount": 19899,
+    "claim_date": "1976-09-08",
+    "claim_id": 30,
+    "claim_type": "claims of fact",
+    "disease_name": "Lymphedema",
+    "patient_id": 138778
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID1047",
+    "claim_amount": 164159,
+    "claim_date": "1953-06-07",
+    "claim_id": 47,
+    "claim_type": "claims of value",
+    "disease_name": "Choking",
+    "patient_id": 196369
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10003",
+    "claim_amount": 143120,
+    "claim_date": "1995-02-08",
+    "claim_id": 3,
+    "claim_type": "claims of fact",
+    "disease_name": "Suicide",
+    "patient_id": 133424
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10039",
+    "claim_amount": 108526,
+    "claim_date": "1960-05-09",
+    "claim_id": 39,
+    "claim_type": "claims of fact",
+    "disease_name": "Head banging",
+    "patient_id": 105758
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID1036",
+    "claim_amount": 62985,
+    "claim_date": "1948-09-27",
+    "claim_id": 36,
+    "claim_type": "claims of policy",
+    "disease_name": "Heart Attack",
+    "patient_id": 138861
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10042",
+    "claim_amount": 188727,
+    "claim_date": "1989-10-28",
+    "claim_id": 42,
+    "claim_type": "claims of fact",
+    "disease_name": "Stroke",
+    "patient_id": 108576
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10013",
+    "claim_amount": 192340,
+    "claim_date": "2014-07-30",
+    "claim_id": 13,
+    "claim_type": "claims of fact",
+    "disease_name": "Cystic fibrosis",
+    "patient_id": 132748
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10002",
+    "claim_amount": 59924,
+    "claim_date": "2008-02-03",
+    "claim_id": 2,
+    "claim_type": "claims of value",
+    "disease_name": "Kidney cancer",
+    "patient_id": 199252
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1067",
+    "claim_amount": 109433,
+    "claim_date": "1944-12-25",
+    "claim_id": 67,
+    "claim_type": "claims of value",
+    "disease_name": "Rett Syndrome",
+    "patient_id": 160140
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1000",
+    "claim_amount": 79874,
+    "claim_date": "1949-03-14",
+    "claim_id": 0,
+    "claim_type": "claims of value",
+    "disease_name": "Galactosemia",
+    "patient_id": 187158
+  },
+  {
+    "Claim_Or_Rejected": "N",
+    "SUB_ID": "SUBID1043",
+    "claim_amount": 186502,
+    "claim_date": "1962-09-18",
+    "claim_id": 43,
+    "claim_type": "claims of value",
+    "disease_name": "Anaemia",
+    "patient_id": 132947
+  },
+  {
+    "Claim_Or_Rejected": "Y",
+    "SUB_ID": "SUBID1062",
+    "claim_amount": 71703,
+    "claim_date": "1945-10-24",
+    "claim_id": 62,
+    "claim_type": "claims of value",
+    "disease_name": "Head banging",
+    "patient_id": 198182
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10059",
+    "claim_amount": 171729,
+    "claim_date": "1983-08-26",
+    "claim_id": 59,
+    "claim_type": "claims of policy",
+    "disease_name": "Malaria",
+    "patient_id": 173518
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10019",
+    "claim_amount": 182552,
+    "claim_date": "1948-07-26",
+    "claim_id": 19,
+    "claim_type": "claims of value",
+    "disease_name": "Glaucoma",
+    "patient_id": 132870
+  },
+  {
+    "Claim_Or_Rejected": "NaN",
+    "SUB_ID": "SUBID10029",
+    "claim_amount": 81651,
+    "claim_date": "2008-02-01",
+    "claim_id": 29,
+    "claim_type": "claims of fact",
+    "disease_name": "Pet allergy",
+    "patient_id": 197352
+  }
+]
